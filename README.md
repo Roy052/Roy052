@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요 👋
+
+게임 개발자, 영상 편집자, 블로거 Roy052입니다.
 
 <!--
 **Roy052/Roy052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
